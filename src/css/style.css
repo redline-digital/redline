@@ -53,7 +53,7 @@ p {
 }
 
 .header {
-    background-image: url(src/img/officebk.jpg);
+    background-image: url(../img/officebk.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: center;
